@@ -30,8 +30,7 @@ body {
     height: auto; /* Default height */
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Enhanced shadow effect */
-    background-color: white;
+    box-shadow: 8px 8px #000000;    background-color: white;
     margin: 20px auto;
     position: relative;
     padding: 16px;
